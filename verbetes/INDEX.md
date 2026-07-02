@@ -11,4 +11,4 @@ formato `- [Título](arquivo.md) — resumo curto`.
 
 <!-- ADICIONE A LINHA DO SEU VERBETE LOGO ABAIXO DESTA LINHA -->
 - [Cantinas: onde comer em cada campus](cantinas.md) — pastel e vitamina no Ipolon I; sábado só no Ipolon II.
-- [NPI](NPI.md) — 
+- [NPI](NPI.md) —  grupo de estudos, segunda a sexta( das 14:00 às 17:45), Grupo de IA, Londrinense Tech e monitoria do Pensamento Computacional.
